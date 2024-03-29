@@ -1,5 +1,5 @@
 # Cute Responsive Error 404 Page using HTML & CSS only
-# Web Preview
+# Live Demo
 [Click Me!](https://htmlpreview.github.io/?https://github.com/emiljano-doda/error404/blob/master/index.html "Preview")
 
 # GIF Preview
